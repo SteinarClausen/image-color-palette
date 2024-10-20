@@ -1,0 +1,9 @@
+# ninja log v6
+11	390	7511247754196357	build.ninja	df4c91548c57e0bd
+15	1345	7510777359365111	CMakeFiles/image_quantization.dir/src/main.cpp.obj	35c4d9b1f3af8a75
+1346	1539	7510777372666844	image_quantization.exe	771175582c3d8e89
+32	2624	7510774396065970	CMakeFiles/image_quantization.dir/src/Image.cpp.obj	3691aff0f67c2a13
+35	2185	7510774396095970	CMakeFiles/image_quantization.dir/src/Image_color_quantization.cpp.obj	117ee86691f1b179
+30	2373	7511248050243318	CMakeFiles/image_quantization.dir/src/main.cpp.obj	35c4d9b1f3af8a75
+46	2445	7511248050413337	CMakeFiles/image_quantization.dir/src/Image_color_quantization.cpp.obj	117ee86691f1b179
+2445	2712	7511248074384397	image_quantization.exe	771175582c3d8e89

@@ -1,0 +1,3 @@
+C:/Users/stein/cplusplus/image_quantization/cmake-build-debug/CMakeFiles/image_quantization.dir
+C:/Users/stein/cplusplus/image_quantization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stein/cplusplus/image_quantization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
